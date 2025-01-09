@@ -9,9 +9,10 @@ public class HolaMundo {
          System.out.println("saludar.toUpperCase() = " + saludar.toUpperCase());
 
          int numero = 10;
-         boolean valor = true;
-         if(valor) {
-             System.out.println("numero = " + numero);
-         }
+         System.out.println("numero = " + numero);
+//         boolean valor = true;
+//         if(valor) {
+//             System.out.println("numero = " + numero);
+//         }
     }
 }
