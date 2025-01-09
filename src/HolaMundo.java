@@ -10,6 +10,7 @@ public class HolaMundo {
 
          int numero = 10;
          System.out.println("numero = " + numero);
+         System.out.println(22);
 //         boolean valor = true;
 //         if(valor) {
 //             System.out.println("numero = " + numero);
